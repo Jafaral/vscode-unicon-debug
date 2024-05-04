@@ -4,7 +4,7 @@
   "description": "UDB Debugger for Unicon",
   "author": "Unicon UDAP Team",
   "license": "MIT",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "publisher": "jafar",
   "engines": {
     "vscode": "^1.82.0"
